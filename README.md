@@ -14,10 +14,10 @@
 
 ```arduino
 // -----------------------------------------------------------------------------------------
-// |   1   |  2  |  3  |  4  |  5  |  6  |   | 7 | 8 | 9 |   0   |  MINUS  | EQUAL |
-// | BTCLR | BT1 | BT2 | BT3 | BT4 | BT5 |   | 4 | 5 | 6 | GRAVE |  LBKT   | RBKT  |
-// | LCTRL |     |     |     |     |     |   | 1 | 2 | 3 |  RET  |  PSCRN  |  DEL  |
-//                     | GUI |     | SPC |   | ENT |     | ALT |
+// |   1   |  2  |  3  |  4  |  5  |   6   |   | 7 | 8 | 9 |   0   |  MINUS  | EQUAL |
+// | CAPS  |     | BT1 | BT2 | BT3 |       |   | 4 | 5 | 6 | GRAVE |  LBKT   | RBKT  |
+// | LCTRL |     |     | BT4 | BT5 | BTCLR |   | 1 | 2 | 3 |  RET  |  PSCRN  |  DEL  |
+//                     | GUI |     |  SPC  |   | ENT |     | ALT |
 ```
 
 ## Raise Layer
